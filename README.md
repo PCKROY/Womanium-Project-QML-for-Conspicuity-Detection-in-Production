@@ -25,22 +25,13 @@ _**Include all necessary information only as per the given format.**_
   - YouTube recording of the project description - [link](https://youtu.be/Ac1ihFcTRTc?si=i6AIVfQQh8ymYQYp)
 
 ## Project Submission:
-All information in this section will be considered for project submission and judging.
-
-Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US ET**.
-
-Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
+1. Task-1-: Getting Familiar with Pennylane Codebook
+   
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
+ - Full Name: Prokash Chandra Roy
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-FxzzKzeceZXhHY6
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
