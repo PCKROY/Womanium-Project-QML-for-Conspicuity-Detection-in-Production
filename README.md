@@ -82,9 +82,9 @@ _**Include all necessary information only as per the given format.**_
 
    key Components :
 
-   1.Quantum Convolution: A quantum circuit is defined to encode a small portion of the input image using parameterized rotations. A random quantum circuit is then applied, followed by measurements to obtain expectation 
-     values. These expectation values are 
-     treated as features extracted from the image.
+   1. Quantum Convolution: A quantum circuit is defined to encode a small portion of the input image using parameterized rotations. A random quantum circuit is then applied, followed by measurements to obtain expectation 
+      values. These expectation values are 
+      treated as features extracted from the image.
 
    2. Preprocessing: The entire training and test datasets are preprocessed using this quantum convolution operation. This step essentially embeds quantum-derived features into the image data.
   
